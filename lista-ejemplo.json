@@ -1,0 +1,11 @@
+{
+  "nombre": "Cámara 01",
+  "items": [
+    { "codigo": "W",   "piezas": 6, "params": { "anchoMod": 4, "largoM": 2.4, "espesorMm": 100 } },
+    { "codigo": "WB",  "piezas": 2, "params": { "anchoMod": 2, "largoTxt": "3.00" } },
+    { "codigo": "E",   "piezas": 4, "params": { "largoM": 2.4 } },
+    { "codigo": "TH",  "piezas": 3, "params": { "anchoMod": 4, "largoMod": 10 } },
+    { "codigo": "TCM", "piezas": 1 },
+    { "codigo": "PCH", "piezas": 1 }
+  ]
+}
